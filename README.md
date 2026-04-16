@@ -1,15 +1,17 @@
-## Overview
+### Overview
 
 This project analyzes employee attrition using Power BI. 
 The goal is to understand why employees leave the company and find ways to improve retention.
 
 Objectives :
+
 Analyze overall attrition in the company
 Find departments and job roles with high attrition
 Understand how salary, experience, and age affect attrition
 Provide insights for better workforce decisions
 
 Dataset :
+
 The dataset contains employee details such as Age, Department, Job Role, Monthly Income, 
 Job Satisfaction, Work Life Balance, Years at Company, and Attrition.
 
