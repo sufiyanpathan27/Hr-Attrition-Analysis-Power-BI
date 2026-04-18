@@ -33,11 +33,12 @@ Key Metrics :
 
 Insights:
 
-- Overall attrition rate is around 16 percent, showing a noticeable number of employees leaving the company.
-- Employees at entry level have higher attrition compared to experienced employees.
-- Employees with lower salary are more likely to leave the company.
-- Sales and R&D departments have higher attrition compared to other departments.
-- Some job roles like Sales Executive have higher employee turnover.
+- Most attrition is from employees earning under 5K, showing salary is a major factor.
+- New and early career employees have the highest attrition compared to experienced employees.
+- Sales Executive role has the highest number of employees, followed by Research Scientist and Lab Technician.
+- Age group 26–35 has the highest number of employees leaving the company.
+- Employees with 1–2 years of experience show higher attrition compared to long-term employees.
+- Research & Development department has the highest attrition, followed by Sales.
 
 Tool
 Power BI
