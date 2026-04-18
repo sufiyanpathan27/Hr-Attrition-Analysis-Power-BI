@@ -15,12 +15,21 @@ Dataset :
 The dataset contains employee details such as Age, Department, Job Role, Monthly Income, 
 Job Satisfaction, Work Life Balance, Years at Company, and Attrition.
 
-Data Preparation
+Data Preparation :
+
 - Removed unnecessary columns
 - Created Age Groups
 - Created Experience Groups (Entry-Level, Junior, Mid, Senior)
 - Created Income Groups
 - Cleaned data and fixed data types
+
+Key Metrics :
+
+- Attrition rate is around 16%, showing employee turnover.
+- Lower salary employees have higher attrition.
+- Entry-level employees leave more than experienced ones.
+- Sales and R&D departments have higher attrition.
+- Some job roles show higher turnover.
 
 Insights:
 
@@ -31,13 +40,14 @@ Insights:
 - Some job roles like Sales Executive have higher employee turnover.
 
 Tool
- Power BI
+Power BI
  
 
- Dashboard
+ Dashboard :
  ![Dashboard](Dashboard.png)
  
 
 Conclusion :
+
 This project helps in understanding employee attrition patterns.
 It can help companies improve employee retention and make better decisions related to salary and workforce planning.
