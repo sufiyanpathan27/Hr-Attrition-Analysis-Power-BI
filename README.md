@@ -42,8 +42,8 @@ Page 2 — Insights :
 - Job Satisfaction vs Job Role — Laboratory Technician and Sales Executive show highest attrition across all satisfaction levels
 
 
-![HR Attrition Dashboard](Dashboard Page 1.png)
-
+![Dashboard Page 1](Dashboard%20Page%201.png)
+![Dashboard Page 2](Dashboard%20Page%202.png)
 
 
 Tool : 
