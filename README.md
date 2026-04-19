@@ -1,54 +1,43 @@
-### Overview
+### HR Attrition Analysis — Project Overview
 
-This project analyzes employee attrition using Power BI. 
-The goal is to understand why employees leave the company and find ways to improve retention.
+About the Project
+Analyzed HR data of 1470 employees to understand why employees are leaving the company using Power BI.
 
-Objectives :
+Data Preprocessing :
 
-Analyze overall attrition in the company
-Find departments and job roles with high attrition
-Understand how salary, experience, and age affect attrition
-Provide insights for better workforce decisions
+- Created Salary Slabs (Under 5K, 6-10K, 11-15K)
+- Created Age Groups (Under 25, 26-35, 36-45, 46-60)
+- Changed data types of columns for accurate analysis
+- Created Measures like Attrition Rate, Attrition Count, Avg Salary
 
-Dataset :
 
-The dataset contains employee details such as Age, Department, Job Role, Monthly Income, 
-Job Satisfaction, Work Life Balance, Years at Company, and Attrition.
+KPIs :
 
-Data Preparation :
+- Total Employees — Company has a total of 1470 employees
+- Attrition Rate — 16% of employees are leaving the company
+- Avg Salary — Average salary is 6.50K
+- Attrition Count — Total 237 employees have left the company
 
-- Removed unnecessary columns
-- Created Age Groups
-- Created Experience Groups (Entry-Level, Junior, Mid, Senior)
-- Created Income Groups
-- Cleaned data and fixed data types
 
-Key Metrics :
+Page 1 — Insights :
 
-- Attrition rate is around 16%, showing employee turnover.
-- Lower salary employees have higher attrition.
-- Entry-level employees leave more than experienced ones.
-- Sales and R&D departments have higher attrition.
-- Some job roles show higher turnover.
+- Attrition by Salary — Employees earning under 5K have highest attrition (159), low salary = high attrition
+- Attrition by Levels — New employees (43%) leave the most, attrition decreases with experience
+- Employees by Job Role — Sales Executive has the highest count of 326 employees
+- Attrition by Age Group — 26-35 age group has highest attrition of 116 employees
+- Attrition by Years at Company — Attrition is highest in the first 1-2 years
+- Attrition by Department — Research & Development has the highest attrition at 56%
 
-Insights:
 
-- Most attrition is from employees earning under 5K, showing salary is a major factor.
-- New and early career employees have the highest attrition compared to experienced employees.
-- Sales Executive role has the highest number of employees, followed by Research Scientist and Lab Technician.
-- Age group 26–35 has the highest number of employees leaving the company.
-- Employees with 1–2 years of experience show higher attrition compared to long-term employees.
-- Research & Development department has the highest attrition, followed by Sales.
+Page 2 — Insights :
 
-Tool
-Power BI
- 
+- Attrition by Gender — Males (150) leave more than females (87)
+- Work Life Balance — Employees with rating 3 are highest (893), even good balance does not fully stop attrition
+- Attrition by Marital Status — Single employees have the highest attrition at 50.63%
+- Attrition by Education Field — Life Sciences has the highest attrition with 89 employees leaving
+- Job Satisfaction vs Job Role — Laboratory Technician and Sales Executive show highest attrition across all satisfaction levels
 
- Dashboard :
- ![Dashboard](Dashboard.png)
- 
 
-Conclusion :
+Conclusion : 
 
-This project helps in understanding employee attrition patterns.
-It can help companies improve employee retention and make better decisions related to salary and workforce planning.
+Low salary, new employees, and single young employees are leaving the most. The company should focus on salary improvement and better onboarding programs to reduce attrition. 
