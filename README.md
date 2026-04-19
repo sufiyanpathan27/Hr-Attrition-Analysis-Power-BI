@@ -45,8 +45,6 @@ Page 2 — Insights :
 ![HR Attrition Dashboard](Dashboard Page 1.png)
 
 
-![Page 2](Dashboard Page 2.png)
-
 
 Tool : 
 Power BI
