@@ -1,7 +1,10 @@
 ### HR Attrition Analysis — Project Overview
 
-About the Project
-Analyzed HR data of 1470 employees to understand why employees are leaving the company using Power BI.
+About the Project :
+
+This project analyzes HR data to identify the key reasons behind employee attrition.
+Various factors like salary, age, department, job satisfaction, and work-life balance were studied to find patterns.
+Interactive dashboards were built to present clear and actionable insights for better HR decision-making.
 
 Data Preprocessing :
 
@@ -10,14 +13,12 @@ Data Preprocessing :
 - Changed data types of columns for accurate analysis
 - Created Measures like Attrition Rate, Attrition Count, Avg Salary
 
-
 KPIs :
 
 - Total Employees — Company has a total of 1470 employees
 - Attrition Rate — 16% of employees are leaving the company
 - Avg Salary — Average salary is 6.50K
 - Attrition Count — Total 237 employees have left the company
-
 
 Page 1 — Insights :
 
@@ -28,7 +29,6 @@ Page 1 — Insights :
 - Attrition by Years at Company — Attrition is highest in the first 1-2 years
 - Attrition by Department — Research & Development has the highest attrition at 56%
 
-
 Page 2 — Insights :
 
 - Attrition by Gender — Males (150) leave more than females (87)
@@ -37,6 +37,8 @@ Page 2 — Insights :
 - Attrition by Education Field — Life Sciences has the highest attrition with 89 employees leaving
 - Job Satisfaction vs Job Role — Laboratory Technician and Sales Executive show highest attrition across all satisfaction levels
 
+Tool : 
+Power BI
 
 Conclusion : 
 
